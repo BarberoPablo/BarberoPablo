@@ -46,6 +46,7 @@ Javascript, NodeJS (Sequelize, Express), ReactJS, Redux Toolkit, SQL (PostgreSQL
 ## Contact
 You can find me 🌎
 - <a href="https://www.linkedin.com/in/pablo-barbero-076720205"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+
 - pablobarbero220@gmail.com
 
 # 𝗦𝘁𝗮𝘁𝘀
