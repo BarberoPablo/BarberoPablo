@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi, I'm Pablo 👋
+
+```javascript
+const pablo = {
+  technologies: 'web',
+  code: [Javascript, Typescript, Java, HTML, CSS],
+  tools: [NodeJS, ReactJS, Redux, PostgreSQL],
+  challenge: "Learning JWT and looking for a testing course"
+}
+```
+
+You can find me 🌎:
+- [LinkedIn](https://www.linkedin.com/in/pablo-barbero-076720205)
 
 <!--
 **BarberoPablo/BarberoPablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
