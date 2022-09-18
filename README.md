@@ -3,7 +3,7 @@
 ```javascript
 const pablo = {
   technologies: 'web',
-  code: [Javascript, Typescript, Java, HTML, CSS],
+  code: [Javascript, Typescript, HTML, CSS],
   tools: [NodeJS, ReactJS, Redux, PostgreSQL],
   challenge: "Learning JWT and looking for a testing course"
 }
