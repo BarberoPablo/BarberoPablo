@@ -5,7 +5,7 @@ const pablo = {
   technologies: 'web',
   code: [Javascript, Typescript, HTML, CSS],
   tools: [NodeJS, ReactJS, PostgreSQL, MongoDB Redux, JWT, JEST],
-  challenge: "Developing a working CBD products e-commerce for a client"
+  challenge: "Developing an inventory management for a Brewing company"
 }
 ```
 
