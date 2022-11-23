@@ -27,7 +27,7 @@ const pablo = {
 ### B2B commodities proyect
 
 #### Idea:
-It was designed and developed as a business to business service for importers & exporters of International Commodities with a login, bookmarks, user profile, administrator profile and a payment gateaway with Paypal. It is ment to be a grupal simulation of real codding experience with regular SCRUM meetins and a common repository where we all pushed our code, as part of Henry's bootcamp. In this proyect I worked mainly as a back-end developer and ended up coding a few front-end components such as Memberships and  DataBase leader, and we use the following tecnologies:
+It was designed and developed as a business to business service for importers & exporters of International Commodities with a login, bookmarks, user profile, administrator profile and a payment gateaway with Paypal. It is ment to be a grupal simulation of real codding experience with regular SCRUM meetins and a common repository where we all pushed our code, as part of Henry's bootcamp. In this proyect I worked mainly as a back-end developer and ended up coding a few front-end components such as Memberships and  DataBase leader.
 
 #### How the page works:
 Upon loggin in or registering, users can create a post offering/searching certain types of commodities. 
