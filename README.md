@@ -4,8 +4,8 @@
 const pablo = {
   technologies: 'web',
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [NodeJS, ReactJS, PostgreSQL, MongoDB Redux, JWT, JEST],
-  challenge: "Developing an inventory management for a Brewing company"
+  tools: [NodeJS, ReactJS, Sockets, PostgreSQL, MongoDB Redux, JWT, JEST],
+  challenge: "Building a web server socket project"
 }
 ```
 
