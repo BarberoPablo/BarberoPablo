@@ -20,34 +20,32 @@ const pablo = {
 ![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Socket](https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 
 ## 𝗠𝘆 Projects
 
-### B2B commodities proyect
+* Multiplayer Games done with Sockets
+  - [Playroom](https://github.com/BarberoPablo/Playroom)
 
-#### Idea:
-It was designed and developed as a business to business service for importers & exporters of International Commodities with a login, bookmarks, user profile, administrator profile and a payment gateaway with Paypal. It is ment to be a grupal simulation of real codding experience with regular SCRUM meetins and a common repository where we all pushed our code, as part of Henry's bootcamp. In this proyect I worked mainly as a back-end developer and ended up coding a few front-end components such as Memberships and  DataBase leader.
+* Business to business service for importers & exporters of International Commodities
+  - [B2B-Commodities-Proyect](https://github.com/BarberoPablo/Commodities-Project)
 
-#### How the page works:
-Upon loggin in or registering, users can create a post offering/searching certain types of commodities. 
-Users who wants to have access to the contact information of another user, they can do that by acquiring a membership.
-Anyone can save posts as favorites and once logged in this favorites can be accesed by going to the profile button (if the user already had favorites, this new ones will be attached to the old ones).
-Users are able to send a review and giving a score to another user as long as they already made contact. This reviews can be reported if the user finds them offensive.
-The page has an administrator panel where a special user (admin), can hide reported posts, ban users, modify memberships or create new ones with certain benefits.
+* Chat with Socket.io and React
+  - [WSS-React-Chat](https://github.com/BarberoPablo/WSS-Chat-React)
 
-#### Technologies used: 
-Javascript, NodeJS (Sequelize, Express), ReactJS, Redux Toolkit, SQL (PostgreSQL), Auth0, Paypal Developer, HTML, CSS.
+* MongoDB Server Template
+  - [Mongo-Template](https://github.com/BarberoPablo/mongoServer-template)
 
-#### Check out this project!:
-<a href="https://github.com/BarberoPablo/Commodities-Project"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+* JWT User Authentication
+  - [User-Auth](https://github.com/BarberoPablo/user-authentication)
+
+* Videogames REST API Individual Project
+  - [Videogames-API](https://github.com/BarberoPablo/PI-Videogames)
+
 
 ## Contact
 You can find me at 🌎
 - <a href="https://www.linkedin.com/in/pablo-barbero-076720205"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
 
 - pablobarbero220@gmail.com
-
-# 𝗦𝘁𝗮𝘁𝘀
-
-![BarberoPablo's github stats](https://github-readme-stats.vercel.app/api?username=BarberoPablo&show_icons=true&theme=dracula)
