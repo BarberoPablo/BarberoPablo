@@ -5,7 +5,7 @@ const pablo = {
   technologies: 'web',
   code: [Javascript, Typescript, HTML, CSS],
   tools: [NodeJS, ReactJS, Sockets, PostgreSQL, MongoDB, Redux],
-  challenge: "Perfectioning my React skills"
+  challenge: "Learning REMIX"
 }
 ```
 
