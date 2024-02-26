@@ -4,8 +4,8 @@
 const pablo = {
   technologies: 'web',
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [NodeJS, ReactJS, Sockets, PostgreSQL, MongoDB, Redux],
-  challenge: "Learning REMIX"
+  tools: [REMIX, NodeJS, ReactJS, Sockets, PostgreSQL, MongoDB, Redux],
+  challenge: "Learning NextJS"
 }
 ```
 
